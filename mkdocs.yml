@@ -1,9 +1,18 @@
-site_name: test 
+site_name: Film Related Materials 
 site_url: https://example.com/ 
 nav: 
-  - Home: index.md  
+  - Preface: index.md  
+  - Posters: posters.md
+  - Stills: stills.md
+  - Scripts: scripts.md
+  - PR Materials: pr_materials.md
+  - Documents: documents.md
+  - Objects: objects.md
   - About: about.md
 theme:
   name: material
   palette:
-    primary: teal
+    primary: deep orange
+  icon:
+    logo: material/filmstrip
+

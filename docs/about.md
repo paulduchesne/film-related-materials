@@ -1,1 +1,1 @@
-hello
+More notes about this project?
