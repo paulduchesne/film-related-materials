@@ -1,6 +1,4 @@
 
-# Film related materials – Best practices
-## Preface
 
 Film related materials is a collective term that refers to a broad variety of objects related to cinematographic works, agents or the film industry. They have in common that they are not part of the actual film (the one that are screened in a cinema or in another context). Therefore thay have often been referred to in negative terms by film archives: as non-film objects. Howevere, since they are as important as the film itself and are often used by researchers, publishers and others, FIAF recommend the term: “Film related materials”. The cataloguing and documentation commission (CDC) has identified six basic categories of film related items. All of them common in most film archive collections. They are:
 

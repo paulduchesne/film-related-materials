@@ -1,5 +1,9 @@
-| Fair                                     | Good                                                     | Best practice                                                      |
-|:-----------------------------------------|:---------------------------------------------------------|:-------------------------------------------------------------------|
+
+
+Definition goes here.
+
+| <span style="color:orange"><b>Fair</b></span>                                            | <span style="color:gold"><b>Good</b></span>                                              | <span style="color:green"><b> Best practice</b></span>                                                          |
+|:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|
 | Unique Identifier/Item no.               | Unique Identifier/Item no.                               | Unique Identifier/Item no.                                         |
 | Object name (e.g. "objects")             | Object name (e.g. "objects")                             | Object name (e.g. "objects")                                       |
 | Object type (e.g. "technical equipment") | Object type (e.g. "technical equipment")                 | Object type (e.g. "technical equipment")                           |

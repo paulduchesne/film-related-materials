@@ -1,5 +1,8 @@
-| Fair                                            | Good                                            | Best practice                                                      |
-|:------------------------------------------------|:------------------------------------------------|:-------------------------------------------------------------------|
+
+Definition goes here.
+
+| <span style="color:orange"><b>Fair</b></span>                                            | <span style="color:gold"><b>Good</b></span>                                              | <span style="color:green"><b> Best practice</b></span>                                                          |
+|:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|
 | Unique Identifier/Item no.                      | Unique Identifier/Item no.                      | Unique Identifier/Item no.                                         |
 | Object name (e.g. "stills")                     | Object name (e.g. "stills")                     | Object name (e.g. "stills")                                        |
 | Form (analog/digital)                           | Object type (e.g. "on set")                     | Object type (e.g. "on set")                                        |
@@ -29,6 +32,9 @@
 |                                                 |                                                 | Link/reference to digital archive file                             |
 |                                                 |                                                 | Link/reference to digital browse file                              |
 |                                                 |                                                 | Location/call number                                               |
+
+
+
 
 | Object type   | Material type   | Base      | Usage             |
 |:--------------|:----------------|:----------|:------------------|

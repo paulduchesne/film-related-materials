@@ -1,4 +1,7 @@
-| Fair                                            | Good                                             | Best practice                                                          |
+
+Definition goes here.
+
+| <span style="color:orange"><b>Fair</b></span>                                            | <span style="color:gold"><b>Good</b></span>                                              | <span style="color:green"><b> Best practice</b></span>                                                          |
 |:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|
 | Unique Identifier/Item no.                      | Unique Identifier/Item no.                       | Unique Identifier/Item no.                                             |
 | Object name (e.g. "posters")                    | Object name (e.g. "posters")                     | Object name (e.g. "posters")                                           |
@@ -36,13 +39,36 @@
 |                                                 |                                                  | Location/call number                                                   |
 |                                                 |                                                  | * if possible include technique of original work (e.g. "oil painting") |
 
-| Object type         | Release types   | Industry size   |
-|:--------------------|:----------------|:----------------|
-| Event posters       | Theatrical      | One-sheet       |
-| Film posters        | Festival        | Two-sheet       |
-| Lobby cards         | Video           | Three-sheet     |
-| Special collections | TV              | Six-sheet       |
-| Window cards        | Educational     | 4 foglio        |
-| etc.                | Streaming       | French petite   |
-|                     | etc.            | etc.            |
 
+
+
+Downloads here, csv, xml
+
+**Object type**: Event posters, Film posters, Lobby cards, Special collections, Window cards 
+
+
+**Object type** 
+
+- Event posters
+- Film posters
+- Lobby cards
+- Special collections
+- Window cards 
+
+**Release types** 
+
+- Theatrical
+- Festival
+- Video
+- TV
+- Educational
+- Streaming
+
+**Industry size**  
+
+- One-sheet 
+- Two-sheet
+- Three-sheet 
+- Six-sheet
+- 4 foglio
+- French petite

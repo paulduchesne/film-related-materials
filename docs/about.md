@@ -1,1 +1,1 @@
-More notes about this project?
+Notes about the CDC?

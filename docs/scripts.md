@@ -1,5 +1,7 @@
-| Fair                                                     | Good                                                     | Best practice                                                      |
-|:---------------------------------------------------------|:---------------------------------------------------------|:-------------------------------------------------------------------|
+Definition goes here.
+
+| <span style="color:orange"><b>Fair</b></span>                                            | <span style="color:gold"><b>Good</b></span>                                              | <span style="color:green"><b> Best practice</b></span>                                                          |
+|:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|
 | Unique Identifier/Item no.                               | Unique Identifier/Item no.                               | Unique Identifier/Item no.                                         |
 | Object name (e.g. "scripts")                             | Object name (e.g. "scripts")                             | Object name (e.g. "scripts")                                       |
 | Form (analog/digital)                                    | Object type (e.g. "dialogue lists")                      | Object type (e.g. "dialogue lists")                                |
