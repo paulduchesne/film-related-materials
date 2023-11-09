@@ -46,6 +46,8 @@
       
     
     
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
     <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -61,7 +63,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
   
     
     
@@ -118,43 +120,6 @@
     
     
     
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Search">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Initializing search
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-    
     
   </nav>
   
@@ -207,17 +172,6 @@
         
       
       
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    Preface
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
       <a href="." class="md-nav__link md-nav__link--active">
         
   
@@ -228,38 +182,48 @@
 
       </a>
       
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#preface" class="md-nav__link">
-    Preface
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
     
       
       
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Categories
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Categories
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
   
   
   
@@ -276,9 +240,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -295,9 +260,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -314,9 +280,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -333,9 +300,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -352,9 +320,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -368,6 +337,14 @@
   
 
       </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -411,21 +388,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#preface" class="md-nav__link">
-    Preface
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -440,8 +402,9 @@
 
 
 <h1 id="film-related-materials-best-practices">Film related materials – Best practices</h1>
-<h2 id="preface">Preface</h2>
-<p>Film related materials is a collective term that refers to a broad variety of objects related to cinematographic works, agents or the film industry. They have in common that they are not part of the actual film (the one that are screened in a cinema or in another context). Therefore thay have often been referred to in negative terms by film archives: as non-film objects. Howevere, since they are as important as the film itself and are often used by researchers, publishers and others, FIAF recommend the term: “Film related materials”. The cataloguing and documentation commission (CDC) has identified six basic categories of film related items. All of them common in most film archive collections. They are:</p>
+<p>Film related materials is a collective term that refers to a broad variety of objects related to cinematographic works, agents or the film industry. They have in common that they are not part of the actual film. Therefore thay have often been referred to in negative terms by film archives: as non-film objects. Howevere, since they are as important as the film itself and often are used by researchers, publishers and others, FIAF recommend the term: “Film related materials”. The term refers to all items or records used in, or generated in
+the pre-production, production, publicity, distribution, exhibition and merchandising, study, and archiving of film.</p>
+<p>The cataloguing and documentation commission (CDC) has identified six basic categories of film related items. All of them common in film archive collections. They are:</p>
 <ul>
 <li><a href="posters/">Posters</a></li>
 <li><a href="stills/">Stills/Photographs</a></li>
@@ -450,8 +413,8 @@
 <li><a href="documents/">Documents</a></li>
 <li><a href="objects/">Objects</a></li>
 </ul>
-<p>Since the publication of the first FIAF cataloguing rules for film, there has been a demand for instructions of how to manage and catalogue film related items. However due to the diversity of the material it is not feasible to create cataloguing rules as such. The CDC has instead choosen to create lists of relevant metadata for each category. Each scheme is divided in three levels, “fair”, “good” and “best practice”. Of course archive institution shall always strive for the best, but knowing that resourses are limited it should be of use to know whats’s concidered good enough. Again with respect to different economical as well as technical conditions, it is possible to use the metadata schemes regardless of collection management system. They will work for databases as well as card catalogues.</p>
-<p>The metadata schemes are supplemented with value lists. The value lists are to be indvidually createt and should be designed to reflect the collection. However when possible controlled terminology shall be used.</p>
+<p>Since the publication of the first FIAF cataloguing rules for film, there has been a demand for instructions of how to manage and catalogue film related items. However due to the diversity of the material it is not possible to create cataloguing rules as such. The CDC has instead choosen to create lists of relevant metadata to be used for the description of film related items in the collection. Each cataloguing scheme is divided in three levels of detail: “fair”, “good” and “best practice”. Individual institutions can choose their own level of description but should of course always strive for the best. With respect to different economical as well as technical conditions, it is possible to use the metadata schemes regardless of collection management system. They will work for databases as well as card catalogues.</p>
+<p>The metadata schemes are supplemented with value lists. The value lists can be individually adapted to reflect the collection. Controlled terminology shall be used.</p>
 
 
 

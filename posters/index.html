@@ -48,6 +48,8 @@
       
     
     
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -63,7 +65,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
   
     
     
@@ -114,43 +116,6 @@
       
     
     
-    
-      <label class="md-header__button md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Search">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Initializing search
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     
     
   </nav>
@@ -215,6 +180,44 @@
     
   
   
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Categories
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Categories
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
     <li class="md-nav__item md-nav__item--active">
       
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
@@ -234,9 +237,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -253,9 +257,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -272,9 +277,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -291,9 +297,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -310,9 +317,10 @@
     </li>
   
 
-    
-      
-      
+              
+            
+              
+                
   
   
   
@@ -326,6 +334,14 @@
   
 
       </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -382,12 +398,13 @@
 
   <h1>Posters</h1>
 
+<p>Definition might go here.</p>
 <table>
 <thead>
 <tr>
-<th style="text-align: left;">Fair</th>
-<th style="text-align: left;">Good</th>
-<th style="text-align: left;">Best practice</th>
+<th style="text-align: left;"><span style="color:orange"><b>Fair</b></span></th>
+<th style="text-align: left;"><span style="color:gold"><b>Good</b></span></th>
+<th style="text-align: left;"><span style="color:green"><b> Best practice</b></span></th>
 </tr>
 </thead>
 <tbody>
@@ -561,59 +578,10 @@
 <td style="text-align: left;"></td>
 <td style="text-align: left;">Location/call number</td>
 </tr>
-<tr>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">* if possible include technique of original work (e.g. "oil painting")</td>
-</tr>
 </tbody>
 </table>
-<table>
-<thead>
-<tr>
-<th style="text-align: left;">Object type</th>
-<th style="text-align: left;">Release types</th>
-<th style="text-align: left;">Industry size</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: left;">Event posters</td>
-<td style="text-align: left;">Theatrical</td>
-<td style="text-align: left;">One-sheet</td>
-</tr>
-<tr>
-<td style="text-align: left;">Film posters</td>
-<td style="text-align: left;">Festival</td>
-<td style="text-align: left;">Two-sheet</td>
-</tr>
-<tr>
-<td style="text-align: left;">Lobby cards</td>
-<td style="text-align: left;">Video</td>
-<td style="text-align: left;">Three-sheet</td>
-</tr>
-<tr>
-<td style="text-align: left;">Special collections</td>
-<td style="text-align: left;">TV</td>
-<td style="text-align: left;">Six-sheet</td>
-</tr>
-<tr>
-<td style="text-align: left;">Window cards</td>
-<td style="text-align: left;">Educational</td>
-<td style="text-align: left;">4 foglio</td>
-</tr>
-<tr>
-<td style="text-align: left;">etc.</td>
-<td style="text-align: left;">Streaming</td>
-<td style="text-align: left;">French petite</td>
-</tr>
-<tr>
-<td style="text-align: left;"></td>
-<td style="text-align: left;">etc.</td>
-<td style="text-align: left;">etc.</td>
-</tr>
-</tbody>
-</table>
+<p>* if possible include technique of original work (e.g. "oil painting") </p>
+<p>Downloads here: csv, xml.</p>
 
 
 

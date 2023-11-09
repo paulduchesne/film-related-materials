@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2023-10-12</lastmod>
+         <lastmod>2023-11-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/about/</loc>
-         <lastmod>2023-10-12</lastmod>
+         <lastmod>2023-11-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/documents/</loc>
-         <lastmod>2023-10-12</lastmod>
+         <lastmod>2023-11-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/list_of_terms/</loc>
-         <lastmod>2023-10-12</lastmod>
+         <lastmod>2023-11-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/objects/</loc>
-         <lastmod>2023-10-12</lastmod>
+         <lastmod>2023-11-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/posters/</loc>
-         <lastmod>2023-10-12</lastmod>
+         <lastmod>2023-11-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/pr_materials/</loc>
-         <lastmod>2023-10-12</lastmod>
+         <lastmod>2023-11-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/scripts/</loc>
-         <lastmod>2023-10-12</lastmod>
+         <lastmod>2023-11-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://example.com/stills/</loc>
-         <lastmod>2023-10-12</lastmod>
+         <lastmod>2023-11-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
