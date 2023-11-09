@@ -1,5 +1,5 @@
 
-Definition goes here.
+Definition might go here.
 
 | <span style="color:orange"><b>Fair</b></span>                                            | <span style="color:gold"><b>Good</b></span>                                              | <span style="color:green"><b> Best practice</b></span>                                                          |
 |:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|
@@ -33,14 +33,5 @@ Definition goes here.
 |                                                 |                                                 | Link/reference to digital browse file                              |
 |                                                 |                                                 | Location/call number                                               |
 
-
-
-
-| Object type   | Material type   | Base      | Usage             |
-|:--------------|:----------------|:----------|:------------------|
-| On set        | Print           | Paper     | Documentation     |
-| Off set       | Digital         | Glass     | Publicity         |
-| Portraits     | Positive        | Nitrate   | Continuity        |
-|               | Negative        | Polyester | Location scouting |
-|               |                 | Acetat    | Casting           |
+Downloads here: csv, xml.
 

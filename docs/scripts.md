@@ -1,4 +1,5 @@
-Definition goes here.
+
+Definition might go here.
 
 | <span style="color:orange"><b>Fair</b></span>                                            | <span style="color:gold"><b>Good</b></span>                                              | <span style="color:green"><b> Best practice</b></span>                                                          |
 |:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|
@@ -21,29 +22,9 @@ Definition goes here.
 |                                                          |                                                          | Generation (copy/original)                                         |
 |                                                          |                                                          | Number of copies (if more than one)                                |
 |                                                          |                                                          | Location/call number                                               |
-19
 
 
 
 
-| Object type        |
-|:-------------------|
-| Continuity scripts |
-| Dialogue lists     |
-| Outlines           |
-| Shooting scripts   |
-| Storyboards        |
-| Synopses           |
-| Treatments         |
-| Unrealized scripts |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
-|                    |
+
+Downloads here: csv, xml.

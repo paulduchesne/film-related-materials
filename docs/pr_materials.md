@@ -23,28 +23,4 @@ Usually two dimensional printed or digital items used for public relations. 3D i
 |                                                                                                                                                                                                                                        |                                                 | Location/call number                                              |
 
 
-
-
-| Unnamed: 4   |
-|:-------------|
-|              |
-|              |
-| Object type  |
-| Books        |
-| Leaflets     |
-| Flyers       |
-| Postcards    |
-| Merchandise  |
-| etc.         |
-|              |
-|              |
-|              |
-|              |
-|              |
-|              |
-|              |
-|              |
-|              |
-|              |
-|              |
-|              |
+Downloads here: csv, xml.

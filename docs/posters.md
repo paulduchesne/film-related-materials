@@ -1,5 +1,5 @@
 
-Definition goes here.
+Definition might go here.
 
 | <span style="color:orange"><b>Fair</b></span>                                            | <span style="color:gold"><b>Good</b></span>                                              | <span style="color:green"><b> Best practice</b></span>                                                          |
 |:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|
@@ -37,38 +37,9 @@ Definition goes here.
 |                                                 |                                                  | Curatorial remarks                                                     |
 |                                                 |                                                  | Number of copies                                                       |
 |                                                 |                                                  | Location/call number                                                   |
-|                                                 |                                                  | * if possible include technique of original work (e.g. "oil painting") |
 
 
+\* if possible include technique of original work (e.g. "oil painting") 
 
 
-Downloads here, csv, xml
-
-**Object type**: Event posters, Film posters, Lobby cards, Special collections, Window cards 
-
-
-**Object type** 
-
-- Event posters
-- Film posters
-- Lobby cards
-- Special collections
-- Window cards 
-
-**Release types** 
-
-- Theatrical
-- Festival
-- Video
-- TV
-- Educational
-- Streaming
-
-**Industry size**  
-
-- One-sheet 
-- Two-sheet
-- Three-sheet 
-- Six-sheet
-- 4 foglio
-- French petite
+Downloads here: csv, xml.
