@@ -3,7 +3,7 @@ Definition might go here.
 
 | <span style="color:orange"><b>Fair</b></span>                                            | <span style="color:gold"><b>Good</b></span>                                              | <span style="color:green"><b> Best practice</b></span>                                                          |
 |:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|
-| Unique Identifier/Item no.                      | Unique Identifier/Item no.                       | Unique Identifier/Item no.                                             |
+| <tspan title="Detail about ids.">Unique Identifier/Item no.</tspan>                      | Unique Identifier/Item no.                       | Unique Identifier/Item no.                                             |
 | Object name (e.g. "posters")                    | Object name (e.g. "posters")                     | Object name (e.g. "posters")                                           |
 | Form (analog/digital)                           | Object  type (e.g. "event posters")              | Object  type (e.g. "event posters")                                    |
 | Link/reference to cinematographic work or agent | Form (analog/digital)                            | Release type (e.g. "theatrical")                                       |
@@ -41,5 +41,4 @@ Definition might go here.
 
 \* if possible include technique of original work (e.g. "oil painting") 
 
-
-Downloads here: csv, xml.
+<a href="../test.json" download>Download JSON.</a>
